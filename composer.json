@@ -1,0 +1,16 @@
+{
+    "name": "omar/testproject",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Omar\\Testproject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "omar abida"
+        }
+    ],
+    "require": {}
+}
